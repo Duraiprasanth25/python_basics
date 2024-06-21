@@ -1,0 +1,40 @@
+movie_id,title,lang_name,budget,revenue,currency
+101,K.G.F: Chapter 2,Kannada,1,12.5,INR
+102,Doctor Strange in the Multiverse of Madness,English,200,954.8,USD
+103,Thor: The Dark World ,English,165,644.8,USD
+104,Thor: Ragnarok ,English,180,854,USD
+105,Thor: Love and Thunder ,English,250,670,USD
+111,The Shawshank Redemption,English,25,73.3,USD
+112,Inception,English,,,
+113,Interstellar,English,165,701.8,USD
+115,The Pursuit of Happyness,English,55,307.1,USD
+116,Gladiator,English,103,460.5,USD
+117,Titanic,English,200,2202,USD
+118,It's a Wonderful Life,English,3.18,3.3,USD
+119,Avatar,English,237,2847,USD
+120,The Godfather,English,7.2,291,USD
+121,The Dark Knight,English,185,1006,USD
+122,Schindler's List,English,22,322.2,USD
+123,Jurassic Park,English,63,1046,USD
+124,Parasite,English,15.5,263.1,USD
+125,Avengers: Endgame,English,400,2798,USD
+126,Avengers: Infinity War,English,400,2048,USD
+137,Captain America: The First Avenger,English,216.7,370.6,USD
+138,Captain America: The Winter Soldier,English,177,714.4,USD
+106,Sholay,Hindi,,,
+107,Dilwale Dulhania Le Jayenge,Hindi,400,2000,INR
+108,3 Idiots,Hindi,550,4000,INR
+109,Kabhi Khushi Kabhie Gham,Hindi,390,1360,INR
+110,Bajirao Mastani ,Hindi,1.4,3.5,INR
+128,Taare Zameen Par,Hindi,120,1350,INR
+129,Munna Bhai M.B.B.S.,Hindi,100,410,INR
+130,PK,Hindi,850,8540,INR
+131,Sanju,Hindi,1,5.9,INR
+135,The Kashmir Files,Hindi,250,3409,INR
+136,Bajrangi Bhaijaan,Hindi,900,11690,INR
+139,Race 3,Hindi,1.8,3.1,INR
+140,Shershaah,Hindi,500,950,INR
+127,Pather Panchali,Bengali,70000,100000,INR
+132,Pushpa: The Rise - Part 1,Telugu,2,3.6,INR
+133,RRR,Telugu,5.5,12,INR
+134,Baahubali: The Beginning,Telugu,1.8,6.5,INR
